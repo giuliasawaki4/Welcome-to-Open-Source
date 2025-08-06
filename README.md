@@ -5492,5 +5492,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+                         <td align="center">
+                <a href="https://github.com/giuliasawaki4">
+                    <img src="[https://avatars.githubusercontent.com/u/147976001?v=4](https://avatars.githubusercontent.com/u/223340759?v=4)" width="100px;"
+                        alt="giuliasawaki4" />
+                    <br />
+                    <sub>
+                        <b>giuliasawaki4</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
+
