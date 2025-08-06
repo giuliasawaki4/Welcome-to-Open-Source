@@ -5494,7 +5494,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
                          <td align="center">
                 <a href="https://github.com/giuliasawaki4">
-                    <img src="[https://i.pinimg.com/736x/3e/3e/e5/3e3ee5edab7653d9510df67113c9bb63.jpg]" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/223340759?v=4" width="100px;"
                         alt="Giulia Sawaki" />
                     <br />
                     <sub>
